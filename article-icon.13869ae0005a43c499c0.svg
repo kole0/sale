@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.488" height="15.797" viewBox="0 0 16.488 15.797">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 0.6px;
+      }
+    </style>
+  </defs>
+  <g id="Zasób_2" data-name="Zasób 2" transform="translate(-0.2 -0.2)">
+    <g id="Warstwa_1" data-name="Warstwa 1" transform="translate(0.5 0.5)">
+      <path id="Path_360" data-name="Path 360" class="cls-1" d="M1.536,18.48h0A1.036,1.036,0,0,1,.5,17.444V9.5H2.572v7.944A1.036,1.036,0,0,1,1.536,18.48Z" transform="translate(-0.5 -3.283)"/>
+      <path id="Path_361" data-name="Path 361" class="cls-1" d="M3.191,14.315V.5H17.006V14.315A1.382,1.382,0,0,1,15.624,15.7H2.5" transform="translate(-1.118 -0.5)"/>
+      <rect id="Rectangle_1391" data-name="Rectangle 1391" class="cls-1" width="4.835" height="5.526" transform="translate(4.145 2.072)"/>
+      <line id="Line_53" data-name="Line 53" class="cls-1" x2="3.454" transform="translate(11.052 3.454)"/>
+      <line id="Line_54" data-name="Line 54" class="cls-1" x2="3.454" transform="translate(11.052 5.526)"/>
+      <line id="Line_55" data-name="Line 55" class="cls-1" x2="3.454" transform="translate(11.052 7.598)"/>
+      <line id="Line_56" data-name="Line 56" class="cls-1" x2="9.671" transform="translate(4.835 11.052)"/>
+      <line id="Line_57" data-name="Line 57" class="cls-1" x2="9.671" transform="translate(4.835 13.124)"/>
+    </g>
+  </g>
+</svg>
