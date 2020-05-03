@@ -1,0 +1,14 @@
+<svg height="22.168" viewBox="0 0 21.251 22.168" width="21.251" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(-129.249 -150.5)">
+        <path
+            d="M21.365,130.22l2.759,8.277h7.366L25.966,143.1l2.766,8.284-7.366-5.525L14,151.388l2.766-8.284L11.24,138.5h7.366Z"
+            fill="#000000"
+            stroke="#000000"
+            stroke-linejoin="round"
+            stroke-width="1"
+            transform="translate(118.509 20.78)"/>
+        <path d="M286.387,765.889h-6.562l4.687,4-2.812,9,7.5-6v-15Z"
+              fill="#000000"
+              transform="translate(-149.325 -606.389)"/>
+    </g>
+</svg>
